@@ -7,5 +7,5 @@ print(f"{aluno02.nome} tem {aluno02.idade} anos e pesa {aluno02.peso}kg")
 
 
 aluno02.falar()
-aluno02.comer("pipoca")
+aluno02.comer()
 aluno02.dormir()
